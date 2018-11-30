@@ -3,5 +3,5 @@
 
 #### Centos 安装 docker
 ```bash
-curl -sSL https://git.io/fprs7 | bash
+sudo curl -sSL https://git.io/fprs7 | bash
 ```
