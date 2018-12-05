@@ -5,3 +5,8 @@
 ```bash
 sudo curl -sSL https://git.io/fprs7 | bash
 ```
+
+#### Centos 安装 vim
+```bash
+sudo curl -sSL https://git.io/fpX2B | bash
+```
