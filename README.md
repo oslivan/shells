@@ -10,3 +10,8 @@ sudo curl -sSL https://git.io/fprs7 | bash
 ```bash
 sudo curl -sSL https://git.io/fpX2B | bash
 ```
+
+#### Centos 安装 rbenv 和 ruby 依赖
+```bash
+sudo curl -sSL https://git.io/fpX2F | bash
+```
