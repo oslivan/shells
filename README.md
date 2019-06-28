@@ -15,3 +15,8 @@ sudo curl -sSL https://git.io/fpX2B | bash
 ```bash
 sudo curl -sSL https://git.io/fpX2F | bash
 ```
+
+#### Centos7 安装最新版 Nginx
+```bash
+sudo curl -sSL https://git.io/fjolN | bash
+```
