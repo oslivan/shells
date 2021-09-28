@@ -4,6 +4,8 @@
 #### Centos 安装 docker
 ```bash
 sudo curl -sSL https://git.io/fprs7 | bash
+
+# 下载安装包：https://download.docker.com/linux/centos/
 ```
 
 #### Centos 安装 vim
